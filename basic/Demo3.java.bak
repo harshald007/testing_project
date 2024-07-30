@@ -1,0 +1,10 @@
+class  Demo3
+{
+	public static void main(String[] args) 
+	{
+		byte var1=10;
+		byte var1=20;
+		byte var1=30;
+		System.out.println(var1);
+	}
+}
