@@ -1,2 +1,2 @@
-'#testing project' 
+'#Manual_Testing_Project' 
 
